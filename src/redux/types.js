@@ -1,0 +1,6 @@
+export const SET_WEATHER = 'SET_WEATHER';
+export const ADD_FAVOURITE = 'ADD_FAVOURITE';
+export const REMOVE_FAVOURITE = 'REMOVE_FAVOURITE';
+export const SET_ERROR = 'SET_ERROR';
+export const SET_BACKGROUND_IMAGE = 'SET_BACKGROUND_IMAGE';
+export const SET_LOADING = 'SET_LOADING';
